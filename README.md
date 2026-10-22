@@ -1,45 +1,27 @@
+# Phishing Awareness Training
 
-# CodeAlpha Cybersecurity Internship Projects
-
-This repository contains three educational cybersecurity
-projects completed for the CodeAlpha internship.
-
-## Task 1: Basic Network Sniffer
-A Python and Scapy program that captures permitted IPv4
-traffic and displays packet information.
-
-Folder: Task1_Network_Sniffer/
-
-## Task 2: Phishing Awareness Training
-An educational website built with HTML, CSS and JavaScript.
-It includes phishing warning signs, prevention tips and
-a ten-question interactive quiz.
-
-Folder: Task2_Phishing_Awareness/
-
-## Task 3: Secure Coding Review
-A Python code review demonstration that identifies selected
-insecure coding patterns and documents remediation guidance.
-
-Folder: Task3_Secure_Coding_Review/
+## Objective
+To educate users about phishing and online safety.
 
 ## Technologies
-- Python
-- Scapy
-- Npcap
-- HTML, CSS and JavaScript
-- Flask
-- SQLite
+HTML, CSS and JavaScript.
 
-## Learning Outcomes
-- Basic network traffic analysis
-- Phishing awareness and prevention
-- Secure coding principles
-- Security review and documentation
-- GitHub version control
+## Features
+- Phishing definition
+- Warning signs and examples
+- Online safety recommendations
+- Ten-question interactive quiz
+- Final score and restart option
 
-## Disclaimer
-These projects are educational demonstrations.
-Use network monitoring only with appropriate authorization.
-The intentionally insecure sample application must not
-be deployed as written.
+## How to Run
+Open index.html in a web browser.
+
+## Testing
+Record the actual results of navigation and quiz testing.
+
+## Limitations
+The quiz runs in the browser and does not save results
+to a server or database.
+
+## Conclusion
+The project provides basic cybersecurity awareness education.
